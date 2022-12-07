@@ -51,6 +51,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@size-limit/preset-small-lib": "^8.1.0",
+    "@storybook/addon-a11y": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-links": "^6.5.14",
